@@ -2,7 +2,6 @@ Edit
 
 # Procurement
 
-Del
 
 create
 
